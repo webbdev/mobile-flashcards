@@ -3,7 +3,7 @@ React Native App
 
 Project for the Udacity React Nanodegree Program.
 
-Using React Native, have build a mobile application that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks. 
+Using React Native, have build a mobile application (iOS) that allows users to study collections of flashcards. The app will allow users to create different categories of flashcards called "decks", add flashcards to those decks, then take quizzes on those decks. 
 
 ### How to run
 
